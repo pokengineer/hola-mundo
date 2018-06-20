@@ -6,12 +6,12 @@ package loom.hola_mundo;
 *
 * @author  Pokengineer
 * @version 2.3
-* @since   2018-06-19 
+* @since   2018-06-19
 */
 public class HolaMundo {
 
    /**
-   * saluda a la persona
+   * saluda a la persona.
    * @param persona es el nombre de la persona
    * @return String devuelve el saludo completo.
    */
